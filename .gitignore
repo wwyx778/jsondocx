@@ -1,0 +1,10 @@
+# IDEA
+.idea
+
+# eclipse
+.project
+
+# Log file
+*.log
+
+.gitignore
